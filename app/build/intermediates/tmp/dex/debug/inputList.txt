@@ -1,0 +1,4 @@
+/Users/nathan/AndroidStudioProjects/BRATA/app/build/intermediates/classes/debug
+/Users/nathan/AndroidStudioProjects/BRATA/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-f85ab4ac08765ed6cf83f03ffaa209a8d6424577.jar
+/Users/nathan/AndroidStudioProjects/BRATA/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-952d1718053418361a00fb500fc477ecb326c7ed.jar
+/Users/nathan/AndroidStudioProjects/BRATA/app/build/intermediates/pre-dexed/debug/classes-5e3bd2966ce305fd6fef99810a39e3b512a43929.jar
