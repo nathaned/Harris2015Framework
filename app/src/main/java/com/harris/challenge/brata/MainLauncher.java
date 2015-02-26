@@ -27,7 +27,6 @@ import android.view.View.OnClickListener;
 
 public class MainLauncher extends Activity implements OnClickListener{
 	
-	  TextView incidentsLauncher;
 	  TextView brataToolsLauncher;
 	  TextView secretAgentToolsLauncher;
 	
@@ -40,12 +39,10 @@ public class MainLauncher extends Activity implements OnClickListener{
 	        setContentView(R.layout.activity_main_launcher);
 	        
 	        //setup buttons
-	        incidentsLauncher = (TextView) findViewById(R.id.launchIndicents);
 	        brataToolsLauncher = (TextView) findViewById(R.id.launchTools);
 	        secretAgentToolsLauncher = (TextView) findViewById(R.id.LaunchChallenges);
 	        
 	        //setup click listeners
-	        incidentsLauncher.setOnClickListener(this);
 	        brataToolsLauncher.setOnClickListener(this);
 	        secretAgentToolsLauncher.setOnClickListener(this);
 	        

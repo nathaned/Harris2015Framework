@@ -13,15 +13,6 @@ import android.widget.AdapterView;
 import android.widget.GridView;
 import android.widget.AdapterView.OnItemClickListener;
 
-import com.harris.challenge.brata.R;
-import com.harris.challenge.brata.R.drawable;
-import com.harris.challenge.brata.R.id;
-import com.harris.challenge.brata.R.layout;
-import com.harris.challenge.brata.R.menu;
-import com.harris.challenge.incidents.DudeMyCar;
-import com.harris.challenge.incidents.SkidMarks;
-import com.harris.challenge.incidents.StraightAsAnArrow;
-import com.harris.challenge.incidents.TwoPlacesAtOnce;
 import com.harris.challenge.secret_agent_tools.CaptureProfessorAardvark;
 import com.harris.challenge.secret_agent_tools.CrackTheSafe;
 import com.harris.challenge.secret_agent_tools.FindTheSecretLaboratory;

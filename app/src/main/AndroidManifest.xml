@@ -58,16 +58,8 @@
         <activity android:name="com.harris.challenge.brata.tools.DistanceFinderActivity" 
         	android:screenOrientation="landscape">
         </activity>
-        <activity android:name="com.harris.challenge.incidents.StraightAsAnArrow" >
-        </activity>
-        <activity android:name="com.harris.challenge.incidents.SkidMarks" >
-        </activity>
-        <activity android:name="com.harris.challenge.incidents.TwoPlacesAtOnce" >
-        </activity>
-        <activity android:name="com.harris.challenge.incidents.DudeMyCar" >
-        </activity>
-        
-        <activity android:name="com.harris.challenge.brata.SATChallengeLauncherActivity" 
+
+        <activity android:name="com.harris.challenge.brata.SATChallengeLauncherActivity"
             android:screenOrientation="portrait"/>
         <activity android:name="com.harris.challenge.secret_agent_tools.MasterServerCommunicator" 
             android:theme="@style/Theme.Transparent"
